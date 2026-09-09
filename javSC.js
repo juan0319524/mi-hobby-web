@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     
-    // Validación del Formulario de Contacto (Requerimiento del Taller)
+    // Validación de formulario (Requerimiento obligatorio)
     const form = document.getElementById('contact-form');
     const statusMsg = document.getElementById('form-status');
 
